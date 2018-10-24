@@ -1,0 +1,19 @@
+{
+    "editor.tabSize": 2,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "[javascriptreact]": {
+        "editor.formatOnSave": true
+    },
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "window.zoomLevel": 1,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.validate.enable": false,
+    "typescript.suggestionActions.enabled": false,
+    "ruby.rubocop.executePath": "/Users/preston/.rvm/gems/ruby-2.3.0@global/bin/rubocop"
+}
