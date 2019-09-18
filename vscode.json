@@ -1,21 +1,26 @@
-{
+    // Editor
     "editor.tabSize": 2,
-    "editor.suggestOnTriggerCharacters": false,
-    "editor.quickSuggestions": false,
-    "editor.acceptSuggestionOnEnter": "off",
-    "editor.acceptSuggestionOnCommitCharacter": false,
-    "workbench.startupEditor": "newUntitledFile",
     "editor.minimap.enabled": false,
-    "[javascriptreact]": {
-        "editor.formatOnSave": true
-    },
-    "[javascript]": {
-        "editor.formatOnSave": true
-    },
+    "editor.acceptSuggestionOnCommitCharacter": false,
+
+    // Workbench
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Material Theme Darker",
+    "workbench.iconTheme": "material-icon-theme",
+
+    // Etc
+    "emmet.triggerExpansionOnTab": true,
     "window.zoomLevel": 0,
     "javascript.updateImportsOnFileMove.enabled": "never",
     "typescript.validate.enable": false,
     "typescript.suggestionActions.enabled": false,
-    "workbench.colorTheme": "Material Theme Darker",
-    "workbench.iconTheme": "material-icon-theme"
-}
+
+    // Formatting on save
+    "[javascriptreact]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
