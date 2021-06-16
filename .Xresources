@@ -1,4 +1,4 @@
-Xft.dpi:	220
+Xft.dpi: 200
 
 URxvt*font: xft:xos4 Terminus:size=12
 ! URxvt*background: #151515
@@ -8,36 +8,37 @@ URxvt*scrollBar: false
 ! special
 *.foreground:   #d7d0c7
 *.background:   #151515
-*.cursorColor:  #cfe9d8
+*.cursorColor:  #d7d0c7
 
 ! black
-*.color0:       #000000
-*.color8:       #cb58b0
+*.color0:       #343434
+*.color8:       #242324
 
 ! red
-*.color1:       #0e110f
-*.color9:       #6c74be
+*.color1:       #9a4040
+*.color9:       #e14040
 
 ! green
-*.color2:       #553555
-*.color10:      #66aeb7
+*.color2:       #75bd92
+*.color10:      #66b767
 
 ! yellow
-*.color3:       #353e38
-*.color11:      #cb95bc
+*.color3:       #69724c
+*.color11:      #d9f062
 
 ! blue
-*.color4:       #525f56
-*.color12:      #b4b16e
+*.color4:       #53525f
+*.color12:      #6f6eb4
 
 ! magenta
-*.color5:       #adf1d2
-*.color13:      #8a885f
+*.color5:       #764862
+*.color13:      #b14191
 
 ! cyan
-*.color6:       #9eb5a6
-*.color14:      #75bd92
+*.color6:       #426360
+*.color14:      #4fd4d0
 
 ! white
-*.color7:       #cfe9d8
-*.color15:      #578f95
+*.color7:       #a7ada9
+*.color15:      #cef1f4
+
